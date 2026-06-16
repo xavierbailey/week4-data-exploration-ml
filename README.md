@@ -2,7 +2,7 @@
 
 AAI201  
 Xavier Bailey  
-June 19, 2026
+June 16, 2026
 ## Overview
 This repository contains my Week 4 assignment for data exploration, feature engineering, and basic modeling. The project includes visualizations, one-hot encoding, an engineered feature (`hitter_friendly`), a Logistic Regression model, and a reflection.
 
